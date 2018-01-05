@@ -1,0 +1,23 @@
+.showElement{
+    display:inherit;
+  }
+
+.hideElement{
+  display:none;
+}
+
+.styleOpacity{
+  opacity: 0;
+}
+
+.styleFontSize{
+  font-size: 16px;
+}
+
+.styleOverflow{
+  overflow: hidden;
+}
+
+.styleColor{
+  color: #22906a  
+}
